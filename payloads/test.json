@@ -1,0 +1,7 @@
+{
+  text: 'Hi, it\'s MicroBadger, sending you a test notification for crazymax/7zip https://microbadger.com/images/crazymax/7zip',
+  new_tags: [],
+  image_name: 'crazymax/7zip',
+  changed_tags: [],
+  deleted_tags: []
+}

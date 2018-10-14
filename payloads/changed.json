@@ -1,0 +1,16 @@
+{
+  text: 'MicroBadger: Docker Hub image crazymax/dokuwiki has changed https://microbadger.com/images/crazymax/dokuwiki',
+  new_tags: [],
+  image_name: 'crazymax/dokuwiki',
+  changed_tags: [
+    {
+      SHA: '3814c4b79b0a9918eeba291782e5f0b0d0aaad66ae4a53e7186a29edce35b895',
+      tag: '2018-04-22a'
+    },
+    {
+      SHA: '3814c4b79b0a9918eeba291782e5f0b0d0aaad66ae4a53e7186a29edce35b895',
+      tag: 'latest'
+    }
+  ],
+  deleted_tags: []
+}
